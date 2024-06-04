@@ -1,3 +1,5 @@
 # CV
 My resume and transcript
-open CV.pdf file for my current CV
+Please download CV.pdf file, so the links will work
+Скачайте файл CV.pdf, чтобы контактные ссылки работали
+CV.pdf деген файлды жүктеп алыңыз, сонда сілтемелер істейтін болады
